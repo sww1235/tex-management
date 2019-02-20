@@ -5,8 +5,8 @@ amsfonts
 amsmath
 amstex
 anysize
-arphic
 appendix
+arphic
 autobreak
 automata
 avantgar
@@ -146,6 +146,7 @@ lineno
 listings
 lm
 lm-math
+lstaddons
 ltxmisc
 lua-alt-getopt
 lua-check-hyphen
